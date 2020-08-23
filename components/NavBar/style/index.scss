@@ -1,0 +1,11 @@
+.footer{
+  display: flex;
+  width: 100%;
+  line-height: 1.5;
+  flex-direction: row;
+  background-color: rgb(247, 249, 252);
+}
+.footer>div{
+  flex: 1;
+  max-width: 100%;
+}
